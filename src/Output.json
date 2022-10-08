@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Fritze, USA TODAY",
+            "title": "Supreme Court to grapple with race, elections amid Roe ruling fallout - USA TODAY",
+            "description": "The Supreme Court again confronts momentous questions as it returns to work Monday. But the nation is still reeling from its rulings last term.",
+            "url": "https://www.usatoday.com/story/news/politics/2022/09/30/supreme-court-new-term-race-abortion/8081561001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/09/25/USAT/8403fd34-746d-443b-9378-c66c7ab7e4bf-AP_Supreme_Court_4.jpg?auto=webp&crop=5572,3135,x0,y588&format=pjpg&width=1200",
+            "publishedAt": "2022-10-01T15:56:19Z",
+            "content": "<ul><li>The court's recent decisions were celebrated on the right but polls show public confidence tanked.</li><li>Race will be a major theme this term with challenges over affirmative action and min… [+11331 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russia's Ukraine invasion is backdrop to election in Latvia - Reuters.com",
+            "description": "Latvians were voting on Saturday in a parliamentary election, with opinion polls predicting that Prime Minister Krisjanis Karins's centre-right New Unity party will win the most votes, enabling him to continue his coalition with the conservative National Alli…",
+            "url": "https://www.reuters.com/world/europe/latvia-goes-polls-amid-growing-rift-between-latvian-majority-russian-minority-2022-10-01/",
+            "urlToImage": "https://www.reuters.com/resizer/FPDTV4lLdYv5kV3M8pgbvrey2bk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GGERD7P4X5IY3N6QK6SCAGSORE.jpg",
+            "publishedAt": "2022-10-01T15:48:00Z",
+            "content": "VILNIUS, Oct 1 (Reuters) - Latvians were voting on Saturday in a parliamentary election, with opinion polls predicting that Prime Minister Krisjanis Karins's centre-right New Unity party will win the… [+3004 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Camilo Rocha",
+            "title": "Bolsonaro or Lula? As Brazil prepares to vote, here's what to know - CNN",
+            "description": "Brazil's hotly contested presidential election is less than 24 hours away, and for many Brazilians, the stakes couldn't be higher.",
+            "url": "https://www.cnn.com/2022/10/01/americas/brazil-election-explainer-intl-latam/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220930161745-lula-bolsonaro-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-01T15:48:00Z",
+            "content": "Brazils hotly contested presidential election is less than 24 hours away, and for many Brazilians, the stakes couldnt be higher.\r\nTwo household names former president Luiz Inacio Lula da Silva and cu… [+4912 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "College football schedule, games 2022: What to watch in Week 5, TV channels, Saturday kickoff times - CBS Sports",
+            "description": "Plenty of intriguing games featuring title contenders headline the Week 5 slate as the calendar turns to October",
+            "url": "https://www.cbssports.com/college-football/news/college-football-schedule-games-2022-what-to-watch-in-week-5-tv-channels-saturday-kickoff-times/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/30/07e8db38-358e-4ce0-96f9-c16f58319e90/thumbnail/1200x675/2f63d665246e6bc487cbeb668dae8d4a/pokes.jpg",
+            "publishedAt": "2022-10-01T15:00:00Z",
+            "content": "The first Saturday in October has arrived and that is usually an indication that the landscape of college football will be dominated by the developing conference races as we approach the season's mid… [+4228 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Meghan Bobrowsky and Rebecca Elliott",
+            "title": "Elon Musk Unveils Prototype of Tesla’s Humanoid Robot Optimus, Says It Will Cost Less Than a Car - The Wall Street Journal",
+            "description": "The prototype, which the CEO showed off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker.",
+            "url": "https://www.wsj.com/articles/tesla-ai-day-2022-elon-musk-11664536415",
+            "urlToImage": "https://images.wsj.net/im-635281/social",
+            "publishedAt": "2022-10-01T14:46:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Anthony D'Alessandro",
+            "title": "‘Smile’ Now At $19M Weekend Opening – Saturday AM Box Office - Deadline",
+            "description": "SATURDAY AM: Paramount and other studios are calling Smile at a $19M opening. In a deja vu to last weekend with New Line’s Don’t Worry Darling, another genre pic, this R-rated horror film has received a B- CinemaScore and a severe 69%/53% definite recommend o…",
+            "url": "https://deadline.com/2022/10/box-office-smile-dont-worry-darling-harry-styles-1235131625/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/09/MCDSMIL_PA036-e1664633025353.jpg?w=1024",
+            "publishedAt": "2022-10-01T14:09:00Z",
+            "content": "SATURDAY AM:Paramount and other studios are calling Smileat a $19M opening. In a deja vu to last weekend with New Line’s Don’t Worry Darling, another genre pic, this R-rated horror film has received … [+8925 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "College Football News"
+            },
+            "author": "Pete Fiutak",
+            "title": "Ole Miss vs Kentucky Prediction, Game Preview - College Football News",
+            "description": "Ole Miss vs Kentucky game preview, prediction, and breakdown for the Week 5 game on Saturday, October 1",
+            "url": "https://collegefootballnews.com/2022/10/ole-miss-vs-kentucky-prediction-game-preview-lines-tv",
+            "urlToImage": "https://collegefootballnews.com/wp-content/uploads/sites/83/2020/04/usatsi_13857251.jpg?w=1000&h=576&crop=1",
+            "publishedAt": "2022-10-01T14:01:43Z",
+            "content": "Ole Miss vs Kentucky prediction, game preview, how to watch. Week 5, Saturday, October 1\r\nOle Miss vs Kentucky How To Watch\r\nDate: Saturday, October 1Game Time:12:00 ETVenue: Vaught-Hemingway Stadium… [+2673 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Scott Dance, Amudalat Ajasa",
+            "title": "Here's why Ian's track was hard to predict, and harder to communicate - The Washington Post",
+            "description": "Some people in Florida were surprised and left unprepared by Hurricane Ian’s sudden shift south",
+            "url": "https://www.washingtonpost.com/climate-environment/2022/10/01/hurricane-ian-forecast-accuracy-cone/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLV57PSAMEI63DDOSODL27GYEY.jpg&w=1440",
+            "publishedAt": "2022-10-01T14:00:00Z",
+            "content": "When Justin Smith checked the weather on Tuesday, he wasnt worried. The report from WINK News on DirecTV said Hurricane Ian was a threat to Tampa, some 100 miles to the north of Fort Myers Beach, whe… [+8560 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine forces enter Lyman, Kyiv says Russian troops surrounded - Reuters.com",
+            "description": "Russia said on Saturday its troops had abandoned their bastion of Lyman in Ukraine's east for fear of encirclement and the leader of Chechnya, a close Kremlin ally, said Moscow should consider using a low-yield nuclear weapon in response.",
+            "url": "https://www.reuters.com/world/europe/ukraine-encircles-russian-forces-around-lyman-stronghold-military-2022-10-01/",
+            "urlToImage": "https://www.reuters.com/resizer/h01hTLmNJfM7NgJUfQhKrtfDDp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6EJS5C2DJBOJVA7EOOPMRRWLBE.jpg",
+            "publishedAt": "2022-10-01T13:29:00Z",
+            "content": "KYIV, Oct 1 (Reuters) - Russia said on Saturday its troops had abandoned their bastion of Lyman in Ukraine's east for fear of encirclement and the leader of Chechnya, a close Kremlin ally, said Mosco… [+4711 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vox"
+            },
+            "author": "Whizy Kim",
+            "title": "Elon Musk’s texts offer a rare glimpse at the billionaire boys’ club - Vox.com",
+            "description": "Messages released in Twitter’s lawsuit against the Tesla founder show some of the nation’s wealthiest people offered support and even cash to buy the platform, as some users expressed dismay.",
+            "url": "https://www.vox.com/recode/2022/10/1/23381257/elon-musk-texts-twitter-billionaires",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qcL745CmqEsxbg6TPX4ZV9BfIv4=/0x248:4000x2342/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24070175/1395371333.jpg",
+            "publishedAt": "2022-10-01T11:30:00Z",
+            "content": "A trove of Elon Musks text messages was released this week as part of a lawsuit Twitter has filed against the billionaire, and its proving to be an illuminating look inside conversations between Musk… [+8127 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Mike Jones",
+            "title": "Jones: Tua Tagovailoa deserved better from Dolphins, NFL and so many others - The Athletic",
+            "description": "The NFL can never have a repeat occurrence of what happened Thursday to the Dolphins QB, now in concussion protocol and out indefinitely.",
+            "url": "https://theathletic.com/3644938/2022/09/30/tagovailoa-injury/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2022/09/30142219/GettyImages-1428895302-scaled-e1664562376411-1024x708.jpg",
+            "publishedAt": "2022-10-01T11:07:56Z",
+            "content": "Maybe they did everything right.\r\nMaybe the medical professionals tasked with ensuring the immediate and long-term health of Miami Dolphins quarterback Tua Tagovailoa on Sunday and leading up to Thur… [+1300 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Hurricane Ian recovery continues as death toll rises & more top stories | LiveNOW from FOX - LiveNOW from FOX",
+            "description": "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1Where to watch LiveNOW from FOX: https://www.livenowfox.com/Follow us @Li...",
+            "url": "https://www.youtube.com/watch?v=i_gc6y26raE",
+            "urlToImage": "https://i.ytimg.com/vi/i_gc6y26raE/maxresdefault_live.jpg",
+            "publishedAt": "2022-10-01T11:02:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russian patrol detains head of Ukraine's Zaporizhzhia nuclear plant, Energoatom says - Reuters",
+            "description": "A Russian patrol has detained the director general of Ukraine's Russian-occupied Zaporizhzhia nuclear power plant, the state-owned company in charge of the plant said on Saturday, and the U.N. nuclear watchdog said it was seeking \"clarifications\".",
+            "url": "https://www.reuters.com/world/europe/zaporizhzhia-nuclear-plant-director-general-detained-by-russian-patrol-2022-10-01/",
+            "urlToImage": "https://www.reuters.com/resizer/hfnrIvfEiiMcUSV4vHeLZs5MRUQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NMME32DKCJJIXJFXKLTASA46VY.jpg",
+            "publishedAt": "2022-10-01T10:11:00Z",
+            "content": "KYIV, Oct 1 (Reuters) - A Russian patrol has detained the director general of Ukraine's Russian-occupied Zaporizhzhia nuclear power plant, the state-owned company in charge of the plant said on Satur… [+1931 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Hurricane Ian leads to political whiplash for Ron DeSantis - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvYWRtaW5pc3RyYXRpb24vMzY2OTUxNy1odXJyaWNhbmUtaWFuLWxlYWRzLXRvLXBvbGl0aWNhbC13aGlwbGFzaC1mb3Itcm9uLWRlc2FudGlzL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-10-01T09:58:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Trevor Noah's 'Daily Show' Host Spot Could Be Filled by Roy Wood Jr - TMZ",
+            "description": "Roy Wood Jr. could soon get a serious promotion over at Comedy Central ... we're told he's in the running to take over for Trevor Noah as the next host on \"The Daily Show.\"",
+            "url": "https://www.tmz.com/2022/10/01/roy-wood-jr-candidate-take-over-the-daily-show-hosting-host-trevor-noah/",
+            "urlToImage": "https://imagez.tmz.com/image/02/16by9/2022/09/30/027d183d30ca41ddb2c226301c8fb82a_xl.jpg",
+            "publishedAt": "2022-10-01T08:00:00Z",
+            "content": "Roy Wood Jr. could soon get a serious promotion over at Comedy Central ... we're told he's in the running to take over for Trevor Noahas the next hoston \"The Daily Show.\"\r\nSources with direct knowled… [+1800 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Cal Raleigh's walk-off home run ends Seattle Mariners' 21-year playoff drought - The Guardian",
+            "description": "The Mariners ended the longest playoff drought in Major League Baseball with a 2-1 victory over the Athletics on Friday night",
+            "url": "https://amp.theguardian.com/sport/2022/oct/01/seattle-mariners-playoff-drought-ended-cal-raleigh-home-run",
+            "urlToImage": "https://i.guim.co.uk/img/media/60164cbc6b89df34d550c0cda23cd412e0f2eb5e/0_30_3986_2393/master/3986.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05b993c76974c8a2747510ed42ceba03",
+            "publishedAt": "2022-10-01T06:25:00Z",
+            "content": "More than an hour after Cal Raleigh ended the longest playoff drought in baseball, he was back on the field with his teammates, circling the perimeter of the field to acknowledge the tens of thousand… [+4139 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Hyung-jin Kim",
+            "title": "North Korea conducts 4th round of missile tests in 1 week - The Associated Press - en Español",
+            "description": "SEOUL, South Korea (AP) — North Korea on Saturday test-fired two short-range ballistic missiles, its neighbors said, the fourth round this week of weapons launches that prompted quick, strong condemnation from its rivals.",
+            "url": "https://apnews.com/article/japan-kamala-harris-north-korea-sea-of-government-and-politics-3ebe2e4bf519fc11a68e2e3071860e08",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/70d7117f10bb4e9787ef24d6dd93b936/3000.jpeg",
+            "publishedAt": "2022-10-01T06:11:15Z",
+            "content": "SEOUL, South Korea (AP) North Korea on Saturday test-fired two short-range ballistic missiles, its neighbors said, the fourth round this week of weapons launches that prompted quick, strong condemnat… [+5610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Hurricane Ian heads for South Carolina coast after pounding Florida - KTLA 5",
+            "description": "A revived Hurricane Ian pounded coastal South Carolina on Friday, ripping apart piers and flooding streets after the ferocious storm caused catastrophic dama...",
+            "url": "https://www.youtube.com/watch?v=rn-yY9BwJ6E",
+            "urlToImage": "https://i.ytimg.com/vi/rn-yY9BwJ6E/hqdefault.jpg",
+            "publishedAt": "2022-10-01T05:24:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caroline Linton, Aaron Navarro",
+            "title": "Texas gubernatorial debate: Beto O'Rourke, Greg Abbott spar on guns, abortion and immigration - CBS News",
+            "description": "While recent polls have shown O'Rourke trailing Abbott by around 7 points, this still could be the closest Texas governor's race in years.",
+            "url": "https://www.cbsnews.com/news/texas-governors-race-debate-beto-orourke-greg-abbott-guns-abortion-immigration/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/10/01/3bd3108b-6080-44e8-988f-43772f8a834d/thumbnail/1200x630/5906c86002323926f3196801f8d53cc3/orourke-abbott-debate.jpg",
+            "publishedAt": "2022-10-01T04:04:00Z",
+            "content": "Guns. Abortion. Immigration. Texas' closely-watched gubernatorial race hit the final stretch Friday night at the first — and likely only — debate between incumbent Republican Gov. Greg Abbott, and De… [+6842 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "James Mackintosh",
+            "title": "Britain's Financial Disaster Is a Warning to the World - The Wall Street Journal",
+            "description": "The crisis in the U.K. offers a preview of dangers other economies could face in an era of high inflation and rising interest rates.",
+            "url": "https://www.wsj.com/articles/britains-financial-disaster-is-a-warning-to-the-world-11664596851",
+            "urlToImage": "https://images.wsj.net/im-635047/social",
+            "publishedAt": "2022-10-01T04:00:00Z",
+            "content": "A toxic mix of politics, inflation and higher interest rates is threatening the financial system in the U.K., sending a shock wave through global markets and providing a warning to governments everyw… [+278 chars]"
+        }
+    ]
+}
