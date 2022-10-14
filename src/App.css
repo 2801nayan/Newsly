@@ -1,11 +1,11 @@
 @media only screen and (max-width: 769px) {
-  .navbar-toggler{
+  .navbar-toggler {
     cursor: pointer;
     background: white;
     border: 1px solid gray;
     justify-content: space-between;
   }
-  .container-fluid{
+  .container-fluid {
     text-align: center;
   }
   .responsive {
@@ -17,6 +17,6 @@
     width: 100%;
   }
 }
-.card{
+.card {
   justify-content: space-between;
 }
